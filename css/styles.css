@@ -11,7 +11,7 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
  img {
-  border-radius: 100%;
+  border-radius: 50%;
 }
 :root {
   --blue: #007bff;
